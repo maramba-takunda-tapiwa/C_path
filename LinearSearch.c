@@ -11,7 +11,7 @@ int linear_search( int Array[] , int elements , int target ){
 }
 
 int main(){
-    int array[] = { 2 , 5 , 9 , 10 , 11 , 45 , 23 , 2 , 6 , 8 , 2} ;
+    int array[] = { 2 , 5 , 9 , 10 , 11 , 45 , 23 , 2 , 6 , 8 , 2} ; /*eleven elements*/
     int Elements = 11 ; 
     int Target = 2 ;
     
